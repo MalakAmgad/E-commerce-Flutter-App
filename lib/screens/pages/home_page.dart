@@ -8,6 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:skeletonizer/skeletonizer.dart';
 
 class HomePage extends StatefulWidget {
+  static String id = 'homePage';
   final List<dynamic> products;
   const HomePage({super.key, required this.products});
   @override

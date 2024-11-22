@@ -51,7 +51,7 @@ class OnboardingScreen extends StatelessWidget {
 
   void _onIntroEnd(BuildContext context) {
     Navigator.of(context).pushReplacement(
-      MaterialPageRoute(builder: (_) => const MainScreen()),
+      MaterialPageRoute(builder: (_) => const MainScreen(email: '',)),
     );
   }
 

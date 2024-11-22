@@ -1,3 +1,4 @@
+import 'package:ecommerce_app/screens/auth/login.dart';
 import 'package:ecommerce_app/screens/main_screen.dart';
 import 'package:ecommerce_app/screens/pages/onboard.dart';
 import 'package:flutter/material.dart';
@@ -57,7 +58,7 @@ class _SplashState extends State<Splash> with SingleTickerProviderStateMixin {
     if (isOnboardingComplete == true) {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => const MainScreen()),
+        MaterialPageRoute(builder: (context) => const LoginScreen()),
       );
     } else {
       Navigator.pushReplacement(
