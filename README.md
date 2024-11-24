@@ -98,7 +98,7 @@ For help getting started with Flutter development, view the
 
 🎥 **Demo Video**:  
 Click below to watch a complete walkthrough of the application in action:  
-[![Watch Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](#) *(Insert demo video link)*
+[![Watch Demo](https://github.com/Gaser666/depi_project_2/blob/main/documentation/DemoGIF.gif)](#) *(Insert demo video link)*
 
 ---
 
