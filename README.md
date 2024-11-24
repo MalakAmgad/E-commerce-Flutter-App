@@ -8,6 +8,14 @@ This project is a **modern e-commerce application** built using Flutter, providi
 
 ---
 
+## Demo
+
+🎥 **Demo Video**:  
+Click below to watch a complete walkthrough of the application in action:  
+[![Watch Demo](https://github.com/Gaser666/depi_project_2/blob/main/documentation/DemoGIF.gif)](#) 
+
+---
+
 ## Features
 
 - **Authentication**: User registration and login powered by Firebase.
@@ -91,14 +99,6 @@ For help getting started with Flutter development, view the
 - 📊 **Marketing Presentation**: [Download here](#) *(Insert link to marketing PPT)*  
 - 🎓 **Project Presentation**: [View here](#) *(Insert link to project PPT)*  
 - 📋 **Framework Documentation**: [Access here](#) *(Insert link to framework document)*  
-
----
-
-## Demo
-
-🎥 **Demo Video**:  
-Click below to watch a complete walkthrough of the application in action:  
-[![Watch Demo](https://github.com/Gaser666/depi_project_2/blob/main/documentation/DemoGIF.gif)](#) *(Insert demo video link)*
 
 ---
 
