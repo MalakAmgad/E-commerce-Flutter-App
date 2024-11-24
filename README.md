@@ -1,4 +1,4 @@
-Based on the directory structure you provided in the image, I can create a detailed and structured README for your Flutter project. Here's a draft:
+Here's the revised and enhanced README file with added links to the marketing presentation, project presentation, and framework document, as well as an updated demo section:
 
 ---
 
@@ -81,14 +81,24 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-  For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+---
+
+## Project Resources
+
+- 📊 **Marketing Presentation**: [Download here](#) *(Insert link to marketing PPT)*  
+- 🎓 **Project Presentation**: [View here](#) *(Insert link to project PPT)*  
+- 📋 **Framework Documentation**: [Access here](#) *(Insert link to framework document)*  
+
 ---
 
 ## Demo
 
-🎥 **Demo Video**: [Watch here](#) *(Insert your video link here)*
+🎥 **Demo Video**:  
+Click below to watch a complete walkthrough of the application in action:  
+[![Watch Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](#) *(Insert demo video link)*
 
 ---
 
@@ -111,5 +121,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-If you’d like specific sections tailored or additional details (e.g., a detailed explanation of any feature), let me know!
-
+Let me know if you have the actual links for the presentations and demo video so I can update the placeholders!
