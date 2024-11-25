@@ -41,9 +41,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD5c3HJUnwbrz4_hOm5zF8VaTsB-oI4DEo',
-    appId: '1:470215885665:web:d3c7befe9cdbe42f12fb20',
-    messagingSenderId: '470215885665',
+    apiKey: '#',
+    appId: '#',
+    messagingSenderId: '#',
     projectId: 'depi-d52e8',
     authDomain: 'depi-d52e8.firebaseapp.com',
     storageBucket: 'depi-d52e8.firebasestorage.app',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '#',
     appId: '#',
-    messagingSenderId: '470215885665',
+    messagingSenderId: '#',
     projectId: 'depi-d52e8',
     storageBucket: 'depi-d52e8.firebasestorage.app',
   );
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: '#',
     appId: '#',
-    messagingSenderId: '470215885665',
+    messagingSenderId: '#',
     projectId: 'depi-d52e8',
     storageBucket: 'depi-d52e8.firebasestorage.app',
     iosBundleId: 'com.example.test',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: '#',
     appId: '#',
-    messagingSenderId: '470215885665',
+    messagingSenderId: '#',
     projectId: 'depi-d52e8',
     storageBucket: 'depi-d52e8.firebasestorage.app',
     iosBundleId: 'com.example.test',
@@ -79,7 +79,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: '#',
     appId: '#',
-    messagingSenderId: '470215885665',
+    messagingSenderId: '#',
     projectId: 'depi-d52e8',
     authDomain: 'depi-d52e8.firebaseapp.com',
     storageBucket: 'depi-d52e8.firebasestorage.app',
