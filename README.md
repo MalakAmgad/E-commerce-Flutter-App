@@ -35,7 +35,7 @@ The entry point of the application, initializing essential services and routing.
 #### **2. `screens/`**
 Houses all UI screens of the app:
 - **`auth/`**:
-  - `firebase_options.dart`: Firebase configuration.
+  - `firebase_options.dart`: Firebase configuration change the '# ' by your API keys .
   - `login.dart`: User login screen.
   - `reg.dart`: User registration screen.
 - **`pages/`**:
