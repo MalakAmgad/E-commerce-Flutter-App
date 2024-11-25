@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDOKyeqMW1MR-hLpSaY0aJFEJQUINXDV5Q',
-    appId: '1:470215885665:android:7ee876a6d996c1fe12fb20',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '470215885665',
     projectId: 'depi-d52e8',
     storageBucket: 'depi-d52e8.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCm_pwH9g0IgaXSb9D0-w3Clu4OJpyY_lc',
-    appId: '1:470215885665:ios:48fdc19d34ab8deb12fb20',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '470215885665',
     projectId: 'depi-d52e8',
     storageBucket: 'depi-d52e8.firebasestorage.app',
@@ -68,8 +68,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCm_pwH9g0IgaXSb9D0-w3Clu4OJpyY_lc',
-    appId: '1:470215885665:ios:48fdc19d34ab8deb12fb20',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '470215885665',
     projectId: 'depi-d52e8',
     storageBucket: 'depi-d52e8.firebasestorage.app',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD5c3HJUnwbrz4_hOm5zF8VaTsB-oI4DEo',
-    appId: '1:470215885665:web:62f3289b0b5b7b6712fb20',
+    apiKey: '#',
+    appId: '#',
     messagingSenderId: '470215885665',
     projectId: 'depi-d52e8',
     authDomain: 'depi-d52e8.firebaseapp.com',
